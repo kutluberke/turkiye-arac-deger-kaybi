@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+# pipeline calisma dosyalari
+catalog.json
+rank_state.json
+deep_state.json
+wb_state.json
+full_listings.csv
+full_results.json
+scrape_log.txt

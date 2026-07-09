@@ -1,0 +1,195 @@
+slug,brand,label,price_min_tl,price_max_tl
+audi-a3-allstreet,audi,Audi A3 AllStreet 1 Versiyon SUV/Arazi 4.391.612 TL,4391612,4391612
+audi-a3-sedan,audi,Audi A3 Sedan 2 Versiyon Sedan 4.184.036 - 4.663.484 TL,4184036,4663484
+audi-a3-sportback,audi,Audi A3 Sportback 2 Versiyon Hatchback 3.519.107 - 4.529.948,3519107,4529948
+audi-a5-avant,audi,Audi A5 Avant 4 Versiyon Station wagon 6.231.938 - 8.690.211,6231938,8690211
+audi-a5-sedan,audi,Audi A5 Sedan 4 Versiyon Sedan 6.098.438 - 8.427.771 TL,6098438,8427771
+audi-a6-avant,audi,Audi A6 Avant 3 Versiyon Station wagon 7.648.811 - 10.993.72,7648811,10993722
+audi-a6-e-tron-avant,audi,Audi A6 E-Tron Avant 3 Versiyon Station wagon 8.121.061 - 9.,8121061,9792003
+audi-a6-e-tron-sportback,audi,Audi A6 E-Tron Sportback 3 Versiyon Hatchback 7.946.971 - 9.,7946971,9618123
+audi-a6-sedan,audi,Audi A6 Sedan 4 Versiyon Sedan 10.255.423 - 13.524.614 TL,10255423,13524614
+bmw-1-serisi,bmw,BMW 1 serisi 2 Versiyon Hatchback 3.724.500 - 4.283.100 TL,3724500,4283100
+bmw-2-serisi-active-tourer,bmw,BMW 2 Serisi Active Tourer 4 Versiyon MPV 4.379.500 - 5.371.,4379500,5371800
+bmw-2-serisi-gran-coupe,bmw,BMW 2 Serisi Gran Coupe 2 Versiyon Coupe 4.152.800 - 4.427.8,4152800,4427800
+bmw-3-serisi-sedan,bmw,BMW 3 serisi Sedan 3 Versiyon Sedan 5.529.000 - 6.533.300 TL,5529000,6533300
+bmw-4-serisi-cabrio,bmw,BMW 4 Serisi Cabrio 1 Versiyon Cabrio 10.004.800 TL,10004800,10004800
+bmw-4-serisi-coupe,bmw,BMW 4 Serisi Coupe 2 Versiyon Coupe 6.905.900 - 7.712.500 TL,6905900,7712500
+bmw-4-serisi-gran-coupe,bmw,BMW 4 Serisi Gran Coupe 2 Versiyon Coupe 6.586.700 - 7.396.9,6586700,7396900
+bmw-5-serisi,bmw,BMW 5 serisi 4 Versiyon Sedan 8.479.100 - 12.387.400 TL,8479100,12387400
+bmw-7-serisi,bmw,BMW 7 serisi 2 Versiyon Sedan 20.818.200 - 21.870.500 TL,20818200,21870500
+chery-tiggo-7,chery,Chery Tiggo 7 2 Versiyon SUV/Arazi 2.370.000 - 2.580.000 TL,2370000,2580000
+chery-tiggo-8,chery,Chery Tiggo 8 1 Versiyon SUV/Arazi 2.800.000 TL,2800000,2800000
+citroen-berlingo-kombi,citroen,Citroen Berlingo Kombi 3 Versiyon Ticari 1.815.000 - 1.982.0,1815000,1982000
+citroen-berlingo-van,citroen,Citroen Berlingo Van 2 Versiyon Ticari 1.411.000 - 1.490.000,1411000,1490000
+citroen-c3-aircross,citroen,Citroen C3 AirCross 3 Versiyon SUV/Arazi 2.155.000 - 2.370.0,2155000,2370000
+citroen-c4,citroen,Citroen C4 4 Versiyon Hatchback 1.858.000 - 2.170.000 TL,1858000,2170000
+citroen-c4-x,citroen,Citroen C4 X 4 Versiyon SUV/Arazi 1.880.000 - 2.170.000 TL,1880000,2170000
+citroen-c5-aircross,citroen,Citroen C5 AirCross 2 Versiyon SUV/Arazi 2.650.000 - 2.900.0,2650000,2900000
+citroen-jumper-minibus,citroen,Citroen Jumper Minibüs 2 Versiyon Ticari 2.325.000 - 2.397.0,2325000,2397000
+citroen-jumper-panelvan,citroen,Citroen Jumper Panelvan 3 Versiyon Ticari 1.874.000 - 1.998.,1874000,1998000
+citroen-jumpy-kamyonet,citroen,Citroen Jumpy Kamyonet 1 Versiyon Ticari 1.700.000 TL,1700000,1700000
+cupra-formentor,cupra,Cupra Formentor 4 Versiyon SUV/Arazi 2.750.000 - 6.181.150 T,2750000,6181150
+cupra-leon,cupra,Cupra Leon 2 Versiyon Hatchback 2.650.000 - 3.079.150 TL,2650000,3079150
+cupra-terramar,cupra,Cupra Terramar 3 Versiyon SUV/Arazi 3.335.000 - 4.520.000 TL,3335000,4520000
+dacia-jogger,dacia,Dacia Jogger 4 Versiyon MPV 1.600.000 - 1.830.000 TL,1600000,1830000
+dacia-logan,dacia,Dacia Logan 2 Versiyon Sedan 1.709.000 - 1.784.000 TL,1709000,1784000
+dacia-sandero,dacia,Dacia Sandero 4 Versiyon Hatchback 1.299.000 - 1.821.000 TL,1299000,1821000
+fiat-500-e-cabrio,fiat,Fiat 500 E Cabrio 1 Versiyon Cabrio 2.149.900 TL,2149900,2149900
+fiat-500-e-hatchback,fiat,Fiat 500 E Hatchback 2 Versiyon Hatchback 2.093.900 - 2.249.,2093900,2249900
+fiat-600,fiat,Fiat 600 1 Versiyon SUV/Arazi 1.697.900 TL,1697900,1697900
+fiat-600-e,fiat,Fiat 600 E 1 Versiyon SUV/Arazi 1.989.900 TL,1989900,1989900
+fiat-doblo-cargo,fiat,Fiat Doblo Cargo 7 Versiyon Ticari 1.353.900 - 2.216.900 TL,1353900,2216900
+fiat-doblo-combi,fiat,Fiat Doblo Combi 7 Versiyon Ticari 1.569.900 - 2.172.900 TL,1569900,2172900
+fiat-doblo-panorama,fiat,Fiat Doblo Panorama 2 Versiyon Ticari 2.361.900 - 2.373.900 ,2361900,2373900
+fiat-ducato-kamyonet,fiat,Fiat Ducato Kamyonet 9 Versiyon Ticari 1.960.900 - 2.246.900,1960900,2246900
+fiat-ducato-minibus,fiat,Fiat Ducato Minibüs 2 Versiyon Ticari 2.584.900 - 2.689.900 ,2584900,2689900
+ford-capri-ev,ford,Ford Capri EV 3 Versiyon SUV/Arazi 2.172.132 - 4.330.000 TL,2172132,4330000
+ford-explorer-ev,ford,Ford Explorer EV 4 Versiyon SUV/Arazi 2.232.300 - 4.217.200 ,2232300,4217200
+ford-focus,ford,Ford Focus 2 Versiyon Sedan 2.863.100 - 3.009.800 TL,2863100,3009800
+ford-kuga,ford,Ford KUGA 4 Versiyon SUV/Arazi 2.780.900 - 3.455.000 TL,2780900,3455000
+ford-puma,ford,Ford Puma 4 Versiyon SUV/Arazi 2.195.200 - 2.813.800 TL,2195200,2813800
+ford-ranger,ford,Ford Ranger 5 Versiyon Ticari 3.969.000 - 5.715.900 TL,3969000,5715900
+ford-tourneo,ford,Ford Tourneo 1 Versiyon Ticari 2.571.900 TL,2571900,2571900
+ford-tourneo-courier,ford,Ford Tourneo Courier 11 Versiyon Ticari 1.549.200 - 2.464.60,1549200,2464600
+ford-tourneo-courier-journey,ford,Ford Tourneo Courier Journey 3 Versiyon Ticari 2.652.600 - 3,2652600,3159400
+honda-cr-v,honda,Honda CR-V 1 Versiyon SUV/Arazi 6.160.000 TL,6160000,6160000
+honda-civic-sedan,honda,Honda Civic Sedan 3 Versiyon Sedan 2.360.000 - 2.690.000 TL,2360000,2690000
+honda-civic-type-r,honda,Honda Civic Type-R 1 Versiyon Hatchback 5.500.000 TL,5500000,5500000
+honda-h-rv,honda,Honda H-RV 3 Versiyon SUV/Arazi 2.659.000 - 2.955.000 TL,2659000,2955000
+honda-jazz,honda,Honda Jazz 1 Versiyon Hatchback 2.525.000 TL,2525000,2525000
+honda-prelude,honda,Honda Prelude 1 Versiyon Coupe 5.600.000 TL,5600000,5600000
+honda-zr-v,honda,Honda ZR-V 1 Versiyon SUV/Arazi 4.970.000 TL,4970000,4970000
+hyundai-bayon,hyundai,Hyundai Bayon 10 Versiyon SUV/Arazi 1.513.000 - 2.115.000 TL,1513000,2115000
+hyundai-inster,hyundai,Hyundai Inster 3 Versiyon SUV/Arazi 1.550.000 - 1.840.000 TL,1550000,1840000
+hyundai-ioniq-5,hyundai,Hyundai Ioniq 5 2 Versiyon SUV/Arazi 3.150.000 - 3.490.000 T,3150000,3490000
+hyundai-ioniq-5-n,hyundai,Hyundai Ioniq 5 N 1 Versiyon SUV/Arazi 6.205.000 TL,6205000,6205000
+hyundai-ioniq-6,hyundai,Hyundai Ioniq 6 1 Versiyon Sedan 2.484.000 TL,2484000,2484000
+hyundai-ioniq-9,hyundai,Hyundai Ioniq 9 2 Versiyon SUV/Arazi 5.810.000 - 6.960.000 T,5810000,6960000
+hyundai-kona,hyundai,Hyundai Kona 2 Versiyon SUV/Arazi 2.375.000 - 2.380.000 TL,2375000,2380000
+hyundai-santa-fe,hyundai,Hyundai Santa Fe 1 Versiyon SUV/Arazi 5.950.000 TL,5950000,5950000
+hyundai-staria,hyundai,Hyundai Staria 1 Versiyon Ticari 2.721.000 TL,2721000,2721000
+jeep-avenger,jeep,Jeep Avenger 5 Versiyon SUV/Arazi 2.156.381 - 2.740.000 TL,2156381,2740000
+jeep-compass,jeep,Jeep Compass 2 Versiyon SUV/Arazi 3.030.000 - 3.360.000 TL,3030000,3360000
+kia-cee-d,kia,Kia Cee'd 1 Versiyon Hatchback 2.070.000 TL,2070000,2070000
+kia-ev3,kia,Kia EV3 4 Versiyon SUV/Arazi 2.095.000 - 3.760.000 TL,2095000,3760000
+kia-ev6,kia,Kia EV6 1 Versiyon SUV/Arazi 3.760.000 TL,3760000,3760000
+kia-ev9,kia,Kia EV9 3 Versiyon SUV/Arazi 6.540.000 - 7.870.000 TL,6540000,7870000
+kia-niro,kia,Kia Niro 1 Versiyon SUV/Arazi 2.299.000 TL,2299000,2299000
+kia-picanto,kia,Kia Picanto 4 Versiyon Hatchback 1.290.000 - 1.435.000 TL,1290000,1435000
+kia-sorento,kia,Kia Sorento 2 Versiyon SUV/Arazi 6.390.000 - 6.530.000 TL,6390000,6530000
+kia-sportage,kia,Kia Sportage 5 Versiyon SUV/Arazi 2.249.000 - 3.650.000 TL,2249000,3650000
+kia-stonic,kia,Kia Stonic 4 Versiyon SUV/Arazi 1.740.000 - 2.130.000 TL,1740000,2130000
+mercedes-benz-a-serisi,mercedes-benz,Mercedes-Benz A Serisi 2 Versiyon Hatchback 3.222.000 - 7.05,3222000,7058000
+mercedes-benz-amg-gt,mercedes-benz,Mercedes-Benz AMG-GT 5 Versiyon Coupe 14.064.600 - 33.191.00,14064600,33191000
+mercedes-benz-c-serisi-all-terrain,mercedes-benz,Mercedes-Benz C Serisi All-Terrain 1 Versiyon SUV/Arazi 6.00,6002000,6002000
+mercedes-benz-c-serisi-estate,mercedes-benz,Mercedes-Benz C Serisi Estate 2 Versiyon Station wagon 8.574,8574000,13179000
+mercedes-benz-c-serisi-sedan,mercedes-benz,Mercedes-Benz C Serisi Sedan 4 Versiyon Sedan 6.358.000 - 13,6358000,13095000
+mercedes-benz-cla-serisi-coupe,mercedes-benz,Mercedes-Benz CLA Serisi Coupe 2 Versiyon Coupe 4.643.000 - ,4643000,7481000
+mercedes-benz-cla-serisi-sedan,mercedes-benz,Mercedes-Benz CLA Serisi Sedan 3 Versiyon Sedan 4.191.000 - ,4191000,4873000
+mercedes-benz-cla-serisi-shooting-brake,mercedes-benz,Mercedes-Benz CLA Serisi Shooting Brake 2 Versiyon Station w,5017000,7790000
+mercedes-benz-cle-cabrio,mercedes-benz,Mercedes-Benz CLE Cabrio 1 Versiyon Cabrio 9.406.000 TL,9406000,9406000
+nissan-juke,nissan,Nissan Juke 8 Versiyon SUV/Arazi 2.087.800 - 2.707.100 TL,2087800,2707100
+nissan-qashqai,nissan,Nissan Qashqai 13 Versiyon SUV/Arazi 2.720.400 - 4.330.200 T,2720400,4330200
+nissan-townstar-kombi,nissan,Nissan Townstar Kombi 2 Versiyon Ticari 2.486.500 - 3.147.20,2486500,3147200
+nissan-townstar-van,nissan,Nissan Townstar Van 6 Versiyon Ticari 1.314.900 - 2.249.200 ,1314900,2249200
+nissan-x-trail,nissan,Nissan X-Trail 2 Versiyon SUV/Arazi 5.098.300 - 5.615.600 TL,5098300,5615600
+opel-astra,opel,Opel Astra 4 Versiyon Hatchback 2.215.000 - 2.596.000 TL,2215000,2596000
+opel-astra-e,opel,Opel Astra-e 1 Versiyon Hatchback 3.106.000 TL,3106000,3106000
+opel-combo-cargo,opel,Opel Combo Cargo 4 Versiyon Ticari 1.334.000 - 1.570.000 TL,1334000,1570000
+opel-combo-kombi,opel,Opel Combo Kombi 1 Versiyon Ticari 2.200.000 TL,2200000,2200000
+opel-combo-life,opel,Opel Combo Life 4 Versiyon Ticari 1.631.000 - 2.133.000 TL,1631000,2133000
+opel-corsa,opel,Opel Corsa 5 Versiyon Hatchback 1.535.000 - 2.119.000 TL,1535000,2119000
+opel-corsa-e,opel,Opel Corsa-e 1 Versiyon Hatchback 2.101.000 TL,2101000,2101000
+opel-frontera,opel,Opel Frontera 2 Versiyon SUV/Arazi 2.221.000 - 2.342.000 TL,2221000,2342000
+opel-frontera-e,opel,Opel Frontera-e 2 Versiyon SUV/Arazi 1.894.000 - 2.009.000 T,1894000,2009000
+peugeot-2008,peugeot,Peugeot 2008 3 Versiyon SUV/Arazi 2.181.000 - 2.580.000 TL,2181000,2580000
+peugeot-3008,peugeot,Peugeot 3008 3 Versiyon SUV/Arazi 2.851.000 - 3.381.500 TL,2851000,3381500
+peugeot-408,peugeot,Peugeot 408 9 Versiyon SUV/Arazi 2.175.000 - 2.910.000 TL,2175000,2910000
+peugeot-5008,peugeot,Peugeot 5008 2 Versiyon SUV/Arazi 3.290.000 - 3.545.500 TL,3290000,3545500
+peugeot-boxer-minibus,peugeot,Peugeot Boxer Minibüs 2 Versiyon Ticari 2.428.000 - 2.498.00,2428000,2498000
+peugeot-boxer-panelvan,peugeot,Peugeot Boxer Panelvan 5 Versiyon Ticari 1.845.000 - 2.000.0,1845000,2000000
+peugeot-expert-traveller,peugeot,Peugeot Expert Traveller 2 Versiyon Ticari 2.360.500 - 2.490,2360500,2490000
+peugeot-expert-van,peugeot,Peugeot Expert Van 8 Versiyon Ticari 1.459.000 - 1.798.000 T,1459000,1798000
+peugeot-partner,peugeot,Peugeot Partner 3 Versiyon Ticari 1.335.000 - 1.480.000 TL,1335000,1480000
+renault-austral,renault,Renault Austral 3 Versiyon SUV/Arazi 2.699.000 - 3.650.000 T,2699000,3650000
+renault-boreal,renault,Renault Boreal 4 Versiyon SUV/Arazi 2.379.000 - 3.399.000 TL,2379000,3399000
+renault-captur,renault,Renault Captur 1 Versiyon SUV/Arazi 2.325.000 TL,2325000,2325000
+renault-clio,renault,Renault Clio 4 Versiyon Hatchback 1.730.000 - 2.035.000 TL,1730000,2035000
+renault-duster,renault,Renault Duster 6 Versiyon SUV/Arazi 1.865.000 - 2.840.000 TL,1865000,2840000
+renault-kangoo,renault,Renault Kangoo 4 Versiyon Ticari 1.446.000 - 1.655.000 TL,1446000,1655000
+renault-kangoo-multix,renault,Renault Kangoo Multix 5 Versiyon Ticari 1.700.000 - 2.095.00,1700000,2095000
+renault-master-kamyonet,renault,Renault Master Kamyonet 5 Versiyon Ticari 2.025.000 - 2.190.,2025000,2190000
+renault-master-panelvan,renault,Renault Master Panelvan 4 Versiyon Ticari 2.130.000 - 2.395.,2130000,2395000
+seat-arona,seat,Seat Arona 3 Versiyon SUV/Arazi 1.740.000 - 1.968.000 TL,1740000,1968000
+seat-ateca,seat,Seat Ateca 3 Versiyon SUV/Arazi 2.561.000 - 2.919.150 TL,2561000,2919150
+seat-ibiza,seat,Seat Ibiza 3 Versiyon Hatchback 1.647.150 - 1.857.000 TL,1647150,1857000
+seat-leon,seat,Seat Leon 2 Versiyon Hatchback 2.295.000 - 2.930.150 TL,2295000,2930150
+skoda-elroq,skoda,Skoda Elroq 1 Versiyon SUV/Arazi 3.199.900 TL,3199900,3199900
+skoda-enyaq-coupe,skoda,Skoda Enyaq Coupe 2 Versiyon SUV/Arazi 3.949.900 - 5.349.900,3949900,5349900
+skoda-enyaq-suv,skoda,Skoda Enyaq SUV 1 Versiyon SUV/Arazi 3.849.900 TL,3849900,3849900
+skoda-fabia,skoda,Skoda Fabia 3 Versiyon Hatchback 1.874.900 - 2.729.900 TL,1874900,2729900
+skoda-kamiq,skoda,Skoda Kamiq 4 Versiyon SUV/Arazi 2.099.900 - 2.774.900 TL,2099900,2774900
+skoda-karoq,skoda,Skoda Karoq 3 Versiyon SUV/Arazi 3.249.900 - 3.669.900 TL,3249900,3669900
+skoda-kodiaq,skoda,Skoda Kodiaq 6 Versiyon SUV/Arazi 3.999.400 - 7.224.900 TL,3999400,7224900
+skoda-octavia-kombi,skoda,Skoda Octavia Kombi 2 Versiyon Station wagon 3.494.900 - 5.6,3494900,5654900
+skoda-octavia-sedan,skoda,Skoda Octavia Sedan 5 Versiyon Sedan 2.734.900 - 5.554.900 T,2734900,5554900
+suzuki-s-cross,suzuki,Suzuki S-Cross 6 Versiyon SUV/Arazi 2.253.000 - 2.783.000 TL,2253000,2783000
+suzuki-swift,suzuki,Suzuki Swift 2 Versiyon Hatchback 2.079.000 - 2.109.000 TL,2079000,2109000
+suzuki-vitara,suzuki,Suzuki Vitara 10 Versiyon SUV/Arazi 2.108.000 - 2.649.000 TL,2108000,2649000
+tesla-model-y,tesla,Tesla Model Y 4 Versiyon SUV/Arazi 2.474.985 - 4.546.500 TL,2474985,4546500
+togg-t10f,togg,TOGG T10F 4 Versiyon Sedan 1.974.980 - 3.217.937 TL,1974980,3217937
+togg-t10x,togg,TOGG T10X 4 Versiyon SUV/Arazi 1.959.048 - 3.318.137 TL,1959048,3318137
+toyota-c-hr,toyota,Toyota C-HR 4 Versiyon SUV/Arazi 2.566.000 - 3.399.000 TL,2566000,3399000
+toyota-corolla-cross,toyota,Toyota Corolla Cross 3 Versiyon SUV/Arazi 3.320.000 - 4.120.,3320000,4120500
+toyota-corolla-hatchback,toyota,Toyota Corolla Hatchback 3 Versiyon Hatchback 2.781.000 - 2.,2781000,2924000
+toyota-corolla-sedan,toyota,Toyota Corolla Sedan 9 Versiyon Sedan 2.284.000 - 3.244.000 ,2284000,3244000
+toyota-hi-lux,toyota,Toyota Hi-Lux 4 Versiyon Ticari 3.100.000 - 5.787.500 TL,3100000,5787500
+toyota-land-cruiser-prado,toyota,Toyota Land Cruiser Prado 1 Versiyon SUV/Arazi 19.620.000 TL,19620000,19620000
+toyota-proace,toyota,Toyota Proace 1 Versiyon Ticari 1.845.000 TL,1845000,1845000
+toyota-proace-city-cargo,toyota,Toyota Proace City Cargo 2 Versiyon Ticari 1.429.000 - 1.483,1429000,1483000
+toyota-proace-city-kombi,toyota,Toyota Proace City Kombi 3 Versiyon Ticari 2.028.000 - 2.390,2028000,2390500
+volkswagen-amarok,volkswagen,Volkswagen Amarok 4 Versiyon Ticari 4.388.000 - 4.955.000 TL,4388000,4955000
+volkswagen-caddy-combi,volkswagen,Volkswagen Caddy Combi 2 Versiyon Ticari 1.985.000 - 2.205.0,1985000,2205000
+volkswagen-caddy-van,volkswagen,Volkswagen Caddy Van 2 Versiyon Ticari 1.648.000 - 1.674.000,1648000,1674000
+volkswagen-caravelle,volkswagen,Volkswagen Caravelle 3 Versiyon Ticari 2.880.000 - 3.375.000,2880000,3375000
+volkswagen-crafter-minibus,volkswagen,Volkswagen Crafter Minibüs 2 Versiyon Ticari 3.545.000 - 3.6,3545000,3600000
+volkswagen-crafter-panelvan,volkswagen,Volkswagen Crafter Panelvan 5 Versiyon Ticari 2.235.000 - 2.,2235000,2635000
+volkswagen-golf,volkswagen,Volkswagen Golf 7 Versiyon Hatchback 2.258.000 - 7.051.000 T,2258000,7051000
+volkswagen-id-4,volkswagen,Volkswagen ID.4 1 Versiyon SUV/Arazi 3.126.150 TL,3126150,3126150
+volkswagen-id-7,volkswagen,Volkswagen ID.7 1 Versiyon Sedan 4.415.150 TL,4415150,4415150
+volvo-ec40,volvo,Volvo EC40 3 Versiyon SUV/Arazi 4.428.528 - 5.349.420 TL,4428528,5349420
+volvo-ex30-cross-country,volvo,Volvo EX30 Cross Country 1 Versiyon SUV/Arazi 3.986.016 TL,3986016,3986016
+volvo-ex30-suv,volvo,Volvo EX30 SUV 4 Versiyon SUV/Arazi 2.436.910 - 3.825.072 TL,2436910,3825072
+volvo-ex40,volvo,Volvo EX40 3 Versiyon SUV/Arazi 4.336.644 - 5.262.560 TL,4336644,5262560
+volvo-v60,volvo,Volvo V60 1 Versiyon Station wagon 5.958.559 TL,5958559,5958559
+volvo-xc-60,volvo,Volvo XC 60 13 Versiyon SUV/Arazi 7.292.014 - 8.699.794 TL,7292014,8699794
+volvo-xc-90,volvo,Volvo XC 90 12 Versiyon SUV/Arazi 11.234.089 - 12.553.676 TL,11234089,12553676
+alfa-romeo-junior,alfa-romeo,Alfa Romeo Junior 2 Versiyon SUV/Arazi 2.474.300 - 2.668.200,2474300,2668200
+alfa-romeo-tonale,alfa-romeo,Alfa Romeo Tonale 2 Versiyon SUV/Arazi 3.400.000 - 3.727.000,3400000,3727000
+byd-atto-2,byd,BYD Atto 2 2 Versiyon SUV/Arazi 1.624.000 - 1.734.000 TL,1624000,1734000
+byd-atto-3,byd,BYD Atto 3 1 Versiyon SUV/Arazi 2.249.000 TL,2249000,2249000
+byd-dolphin,byd,BYD Dolphin 2 Versiyon Hatchback 1.784.000 - 1.889.000 TL,1784000,1889000
+byd-han,byd,BYD Han 1 Versiyon Sedan 4.873.000 TL,4873000,4873000
+byd-seal,byd,BYD Seal 2 Versiyon Sedan 2.489.000 - 4.077.000 TL,2489000,4077000
+byd-sealion-7,byd,BYD Sealion 7 2 Versiyon SUV/Arazi 2.489.000 - 4.190.000 TL,2489000,4190000
+byd-tang,byd,BYD Tang 1 Versiyon SUV/Arazi 5.418.000 TL,5418000,5418000
+ds-automobiles-ds4,ds-automobiles,Ds Automobiles DS4 1 Versiyon Hatchback 2.858.500 TL,2858500,2858500
+ds-automobiles-ds7,ds-automobiles,Ds Automobiles DS7 1 Versiyon SUV/Arazi 4.237.500 TL,4237500,4237500
+ds-automobiles-ds7-e-tense,ds-automobiles,Ds Automobiles DS7 E-Tense 1 Versiyon SUV/Arazi 4.505.000 TL,4505000,4505000
+ds-automobiles-n-4,ds-automobiles,Ds Automobiles N°4 1 Versiyon Hatchback 3.131.200 TL,3131200,3131200
+isuzu-d-max,isuzu,Isuzu D-MAX 8 Versiyon Ticari 2.920.600 - 5.424.300 TL,2920600,5424300
+land-rover-defender-110,land-rover,Land Rover Defender 110 6 Versiyon SUV/Arazi 13.713.901 - 35,13713901,35997879
+land-rover-defender-130,land-rover,Land Rover Defender 130 2 Versiyon SUV/Arazi 18.591.059 - 23,18591059,23013421
+land-rover-defender-90,land-rover,Land Rover Defender 90 1 Versiyon Ticari 7.687.052 TL,7687052,7687052
+land-rover-discovery,land-rover,Land Rover Discovery 2 Versiyon SUV/Arazi 14.531.519 - 16.21,14531519,16211188
+land-rover-discovery-sport,land-rover,Land Rover Discovery Sport 2 Versiyon SUV/Arazi 8.010.925 - ,8010925,8640493
+land-rover-range-rover,land-rover,Land Rover Range Rover 13 Versiyon SUV/Arazi 26.683.002 - 46,26683002,46737004
+land-rover-range-rover-evoque,land-rover,Land Rover Range Rover Evoque 4 Versiyon SUV/Arazi 6.339.946,6339946,8267998
+land-rover-range-rover-sport,land-rover,Land Rover Range Rover Sport 3 Versiyon SUV/Arazi 22.386.315,22386315,23996845
+land-rover-range-rover-velar,land-rover,Land Rover Range Rover Velar 2 Versiyon SUV/Arazi 10.887.887,10887887,12068918
+mg-hs,mg,MG HS 2 Versiyon SUV/Arazi 2.697.000 - 3.265.000 TL,2697000,3265000
+mg-mg7,mg,MG MG7 3 Versiyon Sedan 2.900.000 - 3.450.000 TL,2900000,3450000
+mg-zs,mg,MG ZS 2 Versiyon SUV/Arazi 2.540.000 - 2.655.000 TL,2540000,2655000
+mini-countryman,mini,MINI Countryman 9 Versiyon SUV/Arazi 2.493.500 - 6.978.900 T,2493500,6978900
+subaru-crosstrek,subaru,Subaru Crosstrek 2 Versiyon SUV/Arazi 3.589.900 - 3.919.900 ,3589900,3919900
+subaru-forester,subaru,Subaru Forester 2 Versiyon SUV/Arazi 4.719.900 - 5.779.900 T,4719900,5779900

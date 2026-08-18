@@ -85,7 +85,7 @@ Ayrıntılar: `reports/rapor_tum_araclar.xlsx` → *Metodoloji* sayfası.
 
 Veriler yalnızca araştırma/eğitim amaçlıdır. İlan verileri arabam.com'a aittir.
 
-Bu proje ticari bir amaç taşımayıp sadece kişisel/akademik portfolyo çalışmasıdır. İlgili hak sahiplerinin talebi doğrultusunda içerik derhal kaldırılabilir.
+*Bu proje ticari bir amaç taşımayıp sadece kişisel/akademik portfolyo çalışmasıdır. İlgili hak sahiplerinin talebi doğrultusunda içerik derhal kaldırılabilir.*
 
 ---
 
